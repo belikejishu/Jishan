@@ -7,7 +7,7 @@ High-impact, responsive, professional portfolio website and AI Assistant designe
 - **Contact**: 9112180984 | jishanattar45@gmail.com
 - **LinkedIn Profile**: [https://www.linkedin.com/in/jishanattar/](https://www.linkedin.com/in/jishanattar/)
 - **GitHub Profile**: [https://github.com/belikejishu](https://github.com/belikejishu)
-- **Live Portfolio**: [https://portfolio-zeta-navy-83.vercel.app/](https://portfolio-zeta-navy-83.vercel.app/)
+- **Live Portfolio**: [https://portfolio-zeta-navy-83.vercel.app/](https://jishan-taupe.vercel.app/)
 
 ---
 
