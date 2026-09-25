@@ -1,9 +1,9 @@
 {
-  "name": "shaikh-arshad-portfolio",
+  "name": "jishan-portfolio",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://Sarshad070121.github.io/portfolio",
+  "homepage": "https://belikejishu.github.io/Jishan/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
